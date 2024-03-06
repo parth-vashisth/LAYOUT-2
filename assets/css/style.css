@@ -90,3 +90,8 @@ section {
 .margin-top {
     margin-top: 14px;
 }
+.img-box:hover{
+    background: purple;
+    box-shadow: 0 0 20px blue;
+    cursor: pointer;
+}
